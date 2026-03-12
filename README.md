@@ -480,7 +480,7 @@ The following issues were identified and corrected compared to the original deve
 
 ### Module (this project)
 
-The steganography extension code authored by Fotios Basagiannis is distributed under the BSD 3-Clause licence. The base JPEG handling code (`jpeg.c`, `jsteg.c`) was originally authored by Micheal Smith and is also distributed under the BSD 3-Clause licence; see individual file headers for the full text.
+The steganography extension code authored by Fotios Basagiannis is distributed under MIT licence. The base JPEG handling code (`jpeg.c`, `jsteg.c`) was originally authored by Micheal Smith (though heavily modified by Fotios Basagiannis) and is also distributed under the MIT License; see individual file headers for the full text.
 
 ### Embedded JPEG library (`src/jpeg-v4/`)
 
